@@ -1,1 +1,1 @@
-## npm start to launch the app
+## <npm start> to launch the app
